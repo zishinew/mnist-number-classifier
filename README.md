@@ -4,7 +4,7 @@ a cnn built with keras to classify handwritten digits from the mnist dataset. ac
 
 ## overview
 
-trains a convolutional neural network to recognize digits 0–9 from 28x28 grayscale images. built following [this tutorial](https://www.youtube.com/watch?v=BfCPxoYCgo0).
+trains a convolutional neural network to recognize digits 0–9 from 28x28 grayscale images.
 
 ## what's in here
 
